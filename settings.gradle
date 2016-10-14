@@ -1,1 +1,1 @@
-include ':app', ':base', ':log', ':view', ':viewnoop', ':debugdrawer', ':debugdrawernoop'
+include ':app', ':base', ':log', ':view', ':viewnoop', ':debugdrawer', ':debugdrawernoop', ':actions'
