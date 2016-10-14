@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/base" />
             <option value="$PROJECT_DIR$/log" />
             <option value="$PROJECT_DIR$/view" />
+            <option value="$PROJECT_DIR$/viewnoop" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
