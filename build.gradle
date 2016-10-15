@@ -57,5 +57,7 @@ ext {
     runnerVersion = '0.6-alpha'
     rulesVersion = '0.6-alpha'
     timberVersion = '4.1.2'
+    gmsplayservicesVersion = '9.6.1'
+    scalpelVersion = '1.1.2'
 
 }
