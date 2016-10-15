@@ -15,9 +15,13 @@
             <option value="$PROJECT_DIR$/commons" />
             <option value="$PROJECT_DIR$/debugdrawer" />
             <option value="$PROJECT_DIR$/debugdrawernoop" />
+            <option value="$PROJECT_DIR$/dspec" />
             <option value="$PROJECT_DIR$/fps" />
             <option value="$PROJECT_DIR$/location" />
             <option value="$PROJECT_DIR$/log" />
+            <option value="$PROJECT_DIR$/madge" />
+            <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/picasso" />
             <option value="$PROJECT_DIR$/scalpel" />
             <option value="$PROJECT_DIR$/view" />
             <option value="$PROJECT_DIR$/viewnoop" />
